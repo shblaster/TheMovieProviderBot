@@ -45,11 +45,11 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('☆ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ☆', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💸 Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                    InlineKeyboardButton('• Uᴘᴅᴀᴛᴇꜱ •', callback_data='channels')
+                    InlineKeyboardButton(' Eᴀʀɴ Mᴏɴᴇʏ ', callback_data="shortlink_info"),
+                    InlineKeyboardButton(' Uᴘᴅᴀᴛᴇꜱ ', callback_data='channels')
                 ],[
-                    InlineKeyboardButton('• Cᴏᴍᴍᴀɴᴅꜱ •', callback_data='help'),
-                    InlineKeyboardButton('• Aʙᴏᴜᴛ •', callback_data='about')
+                    InlineKeyboardButton(' Cᴏᴍᴍᴀɴᴅꜱ ', callback_data='help'),
+                    InlineKeyboardButton(' Aʙᴏᴜᴛ ', callback_data='about')
                 ],[
                     InlineKeyboardButton('✨ ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ ✨', callback_data="premium_info")
                   ]]
@@ -115,11 +115,11 @@ async def start(client, message):
         buttons = [[
                     InlineKeyboardButton('☆ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ☆', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
                 ],[
-                    InlineKeyboardButton('💸 Eᴀʀɴ Mᴏɴᴇʏ 💸', callback_data="shortlink_info"),
-                    InlineKeyboardButton('• Uᴘᴅᴀᴛᴇꜱ •', callback_data='channels')
+                    InlineKeyboardButton(' Eᴀʀɴ Mᴏɴᴇʏ ', callback_data="shortlink_info"),
+                    InlineKeyboardButton(' Uᴘᴅᴀᴛᴇꜱ ', callback_data='channels')
                 ],[
-                    InlineKeyboardButton('• Cᴏᴍᴍᴀɴᴅꜱ •', callback_data='help'),
-                    InlineKeyboardButton('• Aʙᴏᴜᴛ •', callback_data='about')
+                    InlineKeyboardButton(' Cᴏᴍᴍᴀɴᴅꜱ ', callback_data='help'),
+                    InlineKeyboardButton(' Aʙᴏᴜᴛ ', callback_data='about')
                 ],[
                     InlineKeyboardButton('✨ ʙᴜʏ ꜱᴜʙꜱᴄʀɪᴘᴛɪᴏɴ : ʀᴇᴍᴏᴠᴇ ᴀᴅꜱ ✨', callback_data="premium_info")
                   ]]
